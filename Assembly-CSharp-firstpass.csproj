@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1E4B650F-92DA-C7B4-A3F7-7B4CD70E7EFA}</ProjectGuid>
+    <ProjectGuid>{DCA41B12-3F13-0C16-0E61-1078D4ACD3A2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
