@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FlyMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PickupPatriclesDestruction.cs">
     <Files>
-      <File FileName="Assets/Scripts/FlyMovement.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/FlyPickup.cs" Line="16" Column="16" />
+      <File FileName="Assets/Scripts/FlyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PickupPatriclesDestruction.cs" Line="11" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
