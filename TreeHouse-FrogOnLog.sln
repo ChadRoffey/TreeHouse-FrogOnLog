@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5FC8062F-119F-CBA6-95A1-0A08DE4C065C}") = "TreeHouse-FrogOnLog", "Assembly-CSharp-firstpass.csproj", "{DCA41B12-3F13-0C16-0E61-1078D4ACD3A2}"
+EndProject
+Project("{5FC8062F-119F-CBA6-95A1-0A08DE4C065C}") = "TreeHouse-FrogOnLog", "Assembly-CSharp.csproj", "{B1E0D439-21D9-35A2-119F-AB21338B1DF6}"
+EndProject
+Project("{5FC8062F-119F-CBA6-95A1-0A08DE4C065C}") = "TreeHouse-FrogOnLog", "Assembly-CSharp-Editor.csproj", "{AE968072-9833-41C9-FDBE-5D89CEB8EB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA41B12-3F13-0C16-0E61-1078D4ACD3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA41B12-3F13-0C16-0E61-1078D4ACD3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA41B12-3F13-0C16-0E61-1078D4ACD3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA41B12-3F13-0C16-0E61-1078D4ACD3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E0D439-21D9-35A2-119F-AB21338B1DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E0D439-21D9-35A2-119F-AB21338B1DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E0D439-21D9-35A2-119F-AB21338B1DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E0D439-21D9-35A2-119F-AB21338B1DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE968072-9833-41C9-FDBE-5D89CEB8EB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE968072-9833-41C9-FDBE-5D89CEB8EB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE968072-9833-41C9-FDBE-5D89CEB8EB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE968072-9833-41C9-FDBE-5D89CEB8EB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
